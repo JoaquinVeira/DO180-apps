@@ -1,3 +1,3 @@
 <?php
-print " c'mon Greg! it's Friday!!  " "\n";
+print "c'mon Greg! it's Friday!!";
 ?>
